@@ -1,0 +1,14 @@
+body {
+    text-align:center;
+    
+        background-image: url('Paint.jpg');
+        background-size:auto;
+
+}
+
+canvas {
+    border: 5px solid black;
+    cursor: crosshair;
+    background-color: #fbfbfc;
+    }
+    
